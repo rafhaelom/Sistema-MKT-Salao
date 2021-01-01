@@ -14,7 +14,7 @@ criada a parte de funcionalidade e o que será solicitado ao cliente de informa�
 
 Foi criado na data de 01/01/2021 a conexão com o Banco de Dados para guardar as informções do cadastro, nesta etapa foi criada a classe de conexão, ainda não criamos as tabelas do banco de dados e sim a conexão com o banco de dados PostgreSQL que será usado neste projeto.
 
-** OBS: No arquivo BD.java dispõe a URL de conexão com o PostgreSQL, mas a título de segurança, aqui no repositório não coloquei o nome do banco, username e password utilizada no projeto, só um exemplo de URL que pode ser usada, colocando as informações corretas conforme o passo a passo. **
+**OBS: No arquivo BD.java dispõe a URL de conexão com o PostgreSQL, mas a título de segurança, aqui no repositório não coloquei o nome do banco, username e password utilizada no projeto, só um exemplo de URL que pode ser usada, colocando as informações corretas conforme o passo a passo.**
 
 ### Informações de como conectar com o Banco de Dados PostgreSQL
 Visite o site Oficial do PostgreSQL JDBC Driver.
