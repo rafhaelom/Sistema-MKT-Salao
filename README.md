@@ -1,6 +1,8 @@
 # Sistema-MKT-Salao
 Sistema para gerenciamento de clientes e Marketing de Salão de Beleza.
 
+![](https://github.com/rafhaelom/Sistema-MKT-Salao/blob/main/logo.png)
+
 ## Objetivo Geral
 É um projeto que está sendo desenvolvido em Liguagem Java com o Editor BlueJ nesta versão inicial. 
 Este tem por objetivo geral fornecer ao estabelicmento um sistema de cadastro em que é possível cadastrar, alterar e 
@@ -21,9 +23,7 @@ Foi criado na data de 01/01/2021 o Bando de Dados no PostgreSQL e a conexão com
 Visite o site Oficial do PostgreSQL JDBC Driver.
 https://jdbc.postgresql.org/documentation/head/connect.html
 
-**Documentação:** 
-(clique aqui)[https://github.com/rafhaelom/Sistema-MKT-Salao/blob/main/Sistema_MKT_Salao.pdf]
+**Documentação:** [clique aqui](https://github.com/rafhaelom/Sistema-MKT-Salao/blob/main/Sistema_MKT_Salao.pdf)
 
 ### Conheça a versão 0.0
-Conheça os códigos em desenvolvimento: 
-(Clique aqui)[https://github.com/rafhaelom/Sistema-MKT-Salao/tree/main/Vers%C3%B5es/V0.0]
+Conheça os códigos em desenvolvimento: [Clique aqui](https://github.com/rafhaelom/Sistema-MKT-Salao/tree/main/Vers%C3%B5es/V0.0)
