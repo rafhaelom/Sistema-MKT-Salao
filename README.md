@@ -21,7 +21,9 @@ Foi criado na data de 01/01/2021 o Bando de Dados no PostgreSQL e a conexão com
 Visite o site Oficial do PostgreSQL JDBC Driver.
 https://jdbc.postgresql.org/documentation/head/connect.html
 
-**Documentação:** (clique aqui)[https://github.com/rafhaelom/Sistema-MKT-Salao/blob/main/Vers%C3%B5es/V0.0/Sistema_MKT_Salao.pdf]
+**Documentação:** 
+(clique aqui)[https://github.com/rafhaelom/Sistema-MKT-Salao/blob/main/Sistema_MKT_Salao.pdf]
 
 ### Conheça a versão 0.0
-Conheça os códigos em desenvolvimento: (Clique aqui)[https://github.com/rafhaelom/Sistema-MKT-Salao/tree/main/Vers%C3%B5es/V0.0]
+Conheça os códigos em desenvolvimento: 
+(Clique aqui)[https://github.com/rafhaelom/Sistema-MKT-Salao/tree/main/Vers%C3%B5es/V0.0]
