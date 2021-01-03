@@ -13,7 +13,18 @@ clientes, ajudando na divulgação de seus serviços e produtos para melhorar su
 Nesta versão temos o seguintes pontos.
 * Solicitação ao Usuário
 * Banco de dados
+* Tela Inicial
 ### Conheça a versão 0.0: [clique aqui](https://github.com/rafhaelom/Sistema-MKT-Salao/tree/main/Vers%C3%B5es/V0.0)
+
+## Sistema MKT_Salao V0.1
+Nesta versão dispõe dos seguintes pontos.
+* Solicitação ao Usuário
+* Arraylist
+* Tela Inicial
+* Menu
+* Tela Cadastro
+* Retorno de informações cadastradas
+### Conheça a versão 0.0: [clique aqui]()
 
 **OBS: No arquivo BD.java dispõe a URL de conexão com o PostgreSQL, mas a título de segurança, aqui no repositório não coloquei o nome do banco, username e password utilizada no projeto, só um exemplo de URL que pode ser usada, colocando as informações corretas conforme o passo a passo.**
 
