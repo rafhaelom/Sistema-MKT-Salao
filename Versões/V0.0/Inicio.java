@@ -1,5 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.*;
 
 public class Inicio extends JFrame{
     
@@ -17,10 +18,21 @@ public class Inicio extends JFrame{
         lb_im = new JLabel(imagem);
         lb_im.setHorizontalTextPosition( SwingConstants.CENTER );
         
-        bt = new JButton("Começar");
+        JButton bt = new JButton("Começar");
+        bt.addActionListener(new ActionListener(){
+            public void actionPerformed(ActionEvent e){
+                aoComecar();
+            }
+        });
+        
         this.add(lb_im);
         this.add(bt, BorderLayout.SOUTH);   //Layout.
         this.setVisible(true);  //Exibe a Janela.
+    }
+    
+    private void aoComecar(){
+        System.out.println("Começando");
+        new Menu();
     }
     
     public static void main(String [] args){
