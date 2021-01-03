@@ -24,7 +24,7 @@ Nesta versão dispõe dos seguintes pontos.
 * Menu
 * Tela Cadastro
 * Retorno de informações cadastradas
-### Conheça a versão 0.0: [clique aqui]()
+### Conheça a versão 0.1: [clique aqui](https://github.com/rafhaelom/Sistema-MKT-Salao/tree/main/Vers%C3%B5es/V0.1)
 
 **OBS: No arquivo BD.java dispõe a URL de conexão com o PostgreSQL, mas a título de segurança, aqui no repositório não coloquei o nome do banco, username e password utilizada no projeto, só um exemplo de URL que pode ser usada, colocando as informações corretas conforme o passo a passo.**
 
